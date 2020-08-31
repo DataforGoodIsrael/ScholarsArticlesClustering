@@ -65,14 +65,11 @@ Solution
 
 - Filtering & Cleaning: Focus on scholars about coronavirus. (W2V)
 
-- Vectorization: Have a good representation of our articles on a vectors space.
-(Bio RoBERTa)
+- Vectorization: Have a good representation of our articles on a vectors space.(Bio RoBERTa)
 
-- Clustering: Separate it by distance calculations or clustering algorithms.
-(K-Means & K-NN)
+- Clustering: Separate it by distance calculations or clustering algorithms.(K-Means & K-NN)
 
-- Insights Generation: Extract insights. (SciSpacy NER, Summarization
-with BART, TextRank Keywords)
+- Insights Generation: Extract insights. (SciSpacy NER, Summarization with BART, TextRank Keywords)
 
 - Visualization: Create a dashboard (Widgets)
 
