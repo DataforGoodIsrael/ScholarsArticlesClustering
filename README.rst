@@ -1,6 +1,8 @@
 Scholars Articles Clustering
 ############################
 
+*This repo is applied to Covid-19 articles but can be generalized to any other subject.*
+
 What has been published concerning research and development and evaluation efforts of vaccines and therapeutics?
 
 Given the large number of literature and the rapid spread of COVID-19, it is
@@ -63,15 +65,15 @@ Download Data
 Solution
 ========
 
-- Filtering & Cleaning: Focus on scholars about coronavirus. (W2V)
+- Filtering & Cleaning: Focus on scholars about coronavirus (W2V).
 
-- Vectorization: Have a good representation of our articles on a vectors space.(Bio RoBERTa)
+- Vectorization: Have a good representation of our articles on a vectors space (Bio RoBERTa).
 
-- Clustering: Separate it by distance calculations or clustering algorithms.(K-Means & K-NN)
+- Clustering: Separate it by distance calculations or clustering algorithms (K-Means & K-NN).
 
-- Insights Generation: Extract insights. (SciSpacy NER, Summarization with BART, TextRank Keywords)
+- Insights Generation: Extract insights (SciSpacy NER, Summarization with BART, TextRank Keywords).
 
-- Visualization: Create a dashboard (Widgets)
+- Visualization: Create a dashboard (Widgets).
 
 Dashboard Example
 ==============
@@ -101,10 +103,9 @@ Contributions are very welcomed.
 Improvement and Next Steps
 ==========================
 
-
-- Collect more data up to date, creating an automatic data workflow.
-- Create a package for the final models used based on this reasearch repository.
-- Creating an interaction dashboard on a webapp.
+- Collect more up-to-date data, create an automatic data workflow.
+- Create a package for the final models used based on this research repository.
+- Create an interactive dashboard on a webapp.
 
 
 Installing for development
