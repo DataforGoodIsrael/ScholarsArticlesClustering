@@ -17,23 +17,23 @@ we can help decision makers to understand the current state of research.
 
 Scientific community’s questions:
 
-### Prevention for healthcare workers:
-* Efforts to develop prophylaxis clinical studies and prioritize in healthcare workers
+Prevention for healthcare workers:
+- Efforts to develop prophylaxis clinical studies and prioritize in healthcare workers
 
-### Therapeutics:
-* Effectiveness of drugs being developed and tried to treat COVID-19 patients.
-* Clinical and bench trials to investigate less common viral inhibitors against COVID-19 such as naproxen, clarithromycin, and minocyclinethat that may exert effects on viral replication.
-* Capabilities to discover a therapeutic (not vaccine) for the disease, and clinical effectiveness studies to discover therapeutics, to include antiviral agents.
+Therapeutics:
+- Effectiveness of drugs being developed and tried to treat COVID-19 patients.
+- Clinical and bench trials to investigate less common viral inhibitors against COVID-19 such as naproxen, clarithromycin, and minocyclinethat that may exert effects on viral replication.
+- Capabilities to discover a therapeutic (not vaccine) for the disease, and clinical effectiveness studies to discover therapeutics, to include antiviral agents.
 
-### Vaccine
-* Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.
-* Exploration of use of best animal models and their predictive value for a human vaccine.
-* Efforts targeted at a universal coronavirus vaccine.
-* Approaches to evaluate risk for enhanced disease after vaccination
-* Assays to evaluate vaccine immune response and process development for vaccines, alongside suitable animal models [in conjunction with therapeutics]
+Vaccine
+- Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.
+- Exploration of use of best animal models and their predictive value for a human vaccine.
+- Efforts targeted at a universal coronavirus vaccine.
+- Approaches to evaluate risk for enhanced disease after vaccination
+- Assays to evaluate vaccine immune response and process development for vaccines, alongside suitable animal models [in conjunction with therapeutics]
 
-### Distribution:
-* Alternative models to aid decision makers in determining how to prioritize and distribute scarce, newly proven therapeutics as production ramps up. This could include identifying approaches for expanding production capacity to ensure equitable and timely distribution to populations in need.
+Distribution:
+- Alternative models to aid decision makers in determining how to prioritize and distribute scarce, newly proven therapeutics as production ramps up. This could include identifying approaches for expanding production capacity to ensure equitable and timely distribution to populations in need.
 
 
 .. contents::
