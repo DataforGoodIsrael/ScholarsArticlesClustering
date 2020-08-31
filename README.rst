@@ -120,6 +120,6 @@ Clone:
 
 Credits
 =======
-Created by Samuel Jefroykin from Data For Good Israel
+Created by Samuel Jefroykin from Data For Good Israel.
 
-Contact us at hello@dataforgoodisrael.com
+Contact me at samuel@dataforgoodisrael.com
