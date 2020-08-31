@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+huggingface
+wordcloud
+scispacy
+gensim
+pytorch
+ipywidgets
